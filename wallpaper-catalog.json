@@ -7,7 +7,13 @@
       "version": 1,
       "sourceKind": "video",
       "previewUrl": "https://raw.githubusercontent.com/penkiKi/bison-player-assets/main/previews/sledding.gif",
+      "previewMirrorUrls": [
+        "https://gitee.com/stev_wsp/bison-player-assets/raw/main/previews/sledding.gif"
+      ],
       "downloadUrl": "https://github.com/penkiKi/bison-player-assets/releases/download/wallpapers-v1/Sledding-v1.zip",
+      "mirrorUrls": [
+        "https://gitee.com/stev_wsp/bison-player-assets/releases/download/wallpapers-v1/Sledding-v1.zip"
+      ],
       "size": 32501131,
       "sha256": "3e2cdaeed0760ed620ccdcb4b89480ee69e570a41af833a8b0e57168b6e50049"
     },
@@ -17,7 +23,13 @@
       "version": 1,
       "sourceKind": "video",
       "previewUrl": "https://raw.githubusercontent.com/penkiKi/bison-player-assets/main/previews/su344.gif",
+      "previewMirrorUrls": [
+        "https://gitee.com/stev_wsp/bison-player-assets/raw/main/previews/su344.gif"
+      ],
       "downloadUrl": "https://github.com/penkiKi/bison-player-assets/releases/download/wallpapers-v1/su344-v1.zip",
+      "mirrorUrls": [
+        "https://gitee.com/stev_wsp/bison-player-assets/releases/download/wallpapers-v1/su344-v1.zip"
+      ],
       "size": 7364659,
       "sha256": "0f7ca77817f22d0b2540939176cbad409576e777ff89e24194be2f3c5c953e05"
     },
@@ -27,7 +39,13 @@
       "version": 1,
       "sourceKind": "video",
       "previewUrl": "https://raw.githubusercontent.com/penkiKi/bison-player-assets/main/previews/final1.gif",
+      "previewMirrorUrls": [
+        "https://gitee.com/stev_wsp/bison-player-assets/raw/main/previews/final1.gif"
+      ],
       "downloadUrl": "https://github.com/penkiKi/bison-player-assets/releases/download/wallpapers-v1/final1-v1.zip",
+      "mirrorUrls": [
+        "https://gitee.com/stev_wsp/bison-player-assets/releases/download/wallpapers-v1/final1-v1.zip"
+      ],
       "size": 21569243,
       "sha256": "d77b52f5ca567f9ee5bb942a21618a0e9217b2e7380418c8e43a288446162fc8"
     }
